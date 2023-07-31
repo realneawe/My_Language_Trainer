@@ -52,4 +52,4 @@ while not end:
         print("\nOK, maybe you are thinking you answer right, but this answer wrong dude. sorry 😞")
         print(f"Correct word mean is;👉 {word_mean[randomize]} 👈")
         score -= 0.5
-        print(f"\nYour lost 0.5 point in score. Your new score is;🔻{score}🔻\n")
+        print(f"\nYour lost 0.5 point in score. Your new score is; 🔻{score}🔻\n")
